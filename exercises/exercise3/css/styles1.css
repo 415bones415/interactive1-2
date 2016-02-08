@@ -1,0 +1,79 @@
+
+
+a:link {
+	color: red;
+		}
+
+a:hover {
+	color: white;
+		}
+
+a:visited {
+	color: black;
+		}	
+
+#monster {
+	background-color: blue;
+	width: 102px;
+	color: green;
+	height: 156px;
+	margin: auto;
+	float: right;
+		}
+
+.monster {
+	background-color: green;
+	height: 606px;
+	width: 500px;
+	margin: auto;
+	float: left;
+		}
+
+#goat {
+	margin: auto;
+	float: right;
+		}
+
+		#pops{ 
+			background-color: orange;
+			float: left;
+			width: 200px;
+			height: 200px;
+			margin: auto;
+		}
+	#ma{ 
+			background-color: purple;
+			float: left;
+			width: 200px;
+			height: 200px;
+			margin: auto;
+		}
+	#bro{ 
+			background-color: blue;
+			float: left;
+			width: 200px;
+			height: 200px;
+			margin: auto;
+		}
+#sis{ 
+			background-color: green;
+			float: left;
+			width: 200px;
+			height: 200px;
+			margin: auto;
+		}
+
+#house{ 
+			background-color: green;
+			float: left;
+			width: 1000px;
+			height: 500px;
+			margin: auto;
+		}
+
+
+
+
+
+
+
