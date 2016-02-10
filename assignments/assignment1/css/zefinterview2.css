@@ -22,6 +22,8 @@ p{
 
 div{
 	width: 1034px;
+	
+
 }
 
 
@@ -79,9 +81,10 @@ img{
 	margin: absolute;
 }
 
-
-#link{
+.link{
 	position: fixed:
+	font-color: red;
+
 
 }
 
