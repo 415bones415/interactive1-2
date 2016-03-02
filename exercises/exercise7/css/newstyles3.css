@@ -1,0 +1,104 @@
+
+
+#container{
+	width: 960px;
+	margin: 0px auto;
+}
+
+#left-column{
+	width: 700px;
+	background: blue;
+	float: left;
+
+}
+
+#right-column{
+	width: 200px;
+	float: left;
+	background: orange;
+
+}
+
+
+/*desktop*/
+@media screen and (max-width: 2000px){
+	
+	#container{
+		width: 100%;
+	}
+
+	#right-column{
+	width: 30%;
+	}
+
+	#left-column{
+	width: 70%;
+	}
+
+
+	img{ 
+	width: 100%;
+	}
+
+
+
+}
+
+
+/*phone*/
+
+@media screen and (max-width: 640px){
+	
+	#container{
+		width: 100%;
+	}
+
+	#right-column{
+	width: 100%;
+	}
+
+	#left-column{
+	width: 100%;
+	}
+
+
+	img{ 
+	width: 100%;
+	}
+
+
+
+}
+
+
+
+
+/*older phone*/
+
+@media screen and (max-width: 320px){
+	
+	#container{
+		width: 320px;
+	}
+
+	img{ 
+	width: 100%;
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
