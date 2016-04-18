@@ -1,0 +1,267 @@
+
+body{background-image: url(../images/flag.jpg);
+	margin: 0;
+
+}
+
+
+
+#master{
+	height: 2000px;
+	width: 5000px;
+	overflow: hidden;
+	margin: 0;	
+	z-index: 1;
+
+}
+
+
+#sub1{ 
+	height: 200px;
+	width: 5000px;
+	
+}
+
+
+#corner{
+	width: 200px;
+	height:200px;
+	float: left;
+
+}
+
+#snake{
+	width: 700px;
+	height: 200px;
+	float: left;
+}
+
+#bridge{
+	width: 3200px;
+	height: 200px;
+	float: left;
+
+
+}
+
+
+
+
+
+
+#sub3{ 
+	height: 200px;
+	width: 5000px;
+	margin: 0;
+	float: clear;
+
+
+}
+
+#two{
+	width: 300px;
+	height: 200px;
+	float: left;
+
+
+}
+
+
+#skull{
+	width: 200px;
+	height: 200px;
+	float: left;
+
+}
+
+#tri{
+	width: 4000px;
+	height: 200px;
+	float: left;
+
+}
+
+
+
+
+
+
+
+#sub2{ 
+	height: 700px;
+	width: 5000px;
+	margin: 0;
+	float: clear;
+
+
+}
+
+#snake2{
+	width: 200px;
+	height: 700px;
+	float: left;
+}
+
+
+#wolf{
+	width: 1200px;
+	height: 700px;
+	float: left;
+}
+
+
+#mex{
+	width: 1600px;
+	height: 700px;
+	float: left;
+}
+
+
+
+#cat{
+	width: 300px;
+	height: 700px;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mex11{
+	position: absolute;
+	top: 0px;
+	left: 4000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(-20deg);
+}
+
+
+#mex22{
+	position: absolute;
+	top: 0px;
+	left: 3000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3
+	overflow: hidden;
+	transform: rotate(-20deg);
+}
+
+#mex333{
+	position: absolute;
+	top: 0px;
+	left: 2000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(-20deg);
+}
+
+#mex4444{
+	position: absolute;
+	top: 0px;
+	left: 1000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(-20deg);
+}
+#mex55555{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(-20deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#mex66{
+	position: absolute;
+	top: 0px;
+	left: 4000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(45deg);
+}
+
+
+#mex666{
+	position: absolute;
+	top: 0px;
+	left: 3000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3
+	overflow: hidden;
+	transform: rotate(45deg);
+}
+
+#mex6666{
+	position: absolute;
+	top: 0px;
+	left: 2000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(45deg);
+}
+
+#mex66666{
+	position: absolute;
+	top: 0px;
+	left: 1000px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(45deg);
+}
+
+#mex666666{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100px;
+	height: 2000px;
+	z-index: 3;
+	overflow: hidden;
+	transform: rotate(45deg);
+}
+
+
+
