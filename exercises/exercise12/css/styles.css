@@ -1,0 +1,36 @@
+
+
+
+
+
+.box2{
+background-color: red;
+color: yellow;
+font-size: 60px;
+width: 400px;
+height: 200px;
+font: tahoma;
+margin-bottom: 200px;
+padding: 20px;
+
+
+
+}
+
+
+
+
+
+
+.box1{
+background-color: black;
+color: purple;
+font-size: 30px;
+width: 500px;
+height: 200px;
+font: tahoma;
+margin-bottom: 200px;
+padding: 20px;
+margin-top: 40px;
+text-align: center;
+}

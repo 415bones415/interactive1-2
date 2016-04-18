@@ -1,0 +1,95 @@
+@keyframes slide {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  50% {
+    left: 244px;
+    top: 100px;
+  }
+  100% {
+    left: 600px;
+    top: 600px;
+  }
+}
+
+@-webkit-keyframes example {
+   from { transform: scale(5.0); }
+   to   { transform: scale(10.0); }
+}
+
+.background2 {
+  background: #0d8def;
+  border-radius: 30px;
+  height: 300px;
+  position: relative;
+  min-width: 538px;
+  width: 600px;
+}
+
+.background2:hover .dot2 {
+  animation-name: slide;
+  animation-duration: 9s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+
+   -webkit-animation-name: example;
+ 
+}
+
+
+
+
+.dot2 {
+  font: verdana;
+  font-color: #efd70d;
+  border-radius: 50%;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+
+   margin-left: 200px;
+   margin-top: 200px;
+   height: 300px;
+   width: 300px;
+
+}
+
+
+
+
+.background3 {
+  border-radius: 30px;
+  height: 300px;
+  position: relative;
+  min-width: 25px;
+  width: 900px;
+}
+
+.background3:hover .dot3 {
+  animation-name: slide;
+  animation-duration: .5s;
+  animation-timing-function: ease-in-out;
+  animation-delay: .1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.dot3 {
+  background: #efd70d;
+  border-radius: 1000%;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+}
+
+
+@-webkit-keyframes example {
+   from { transform: scale(2.0); }
+   to   { transform: scale(1.0); }
+}
+
+
+
