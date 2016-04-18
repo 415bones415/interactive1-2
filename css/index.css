@@ -1,8 +1,38 @@
 body{
-		background-color: ;
-		font: tahoma;
-		color: #22786C;
-		font-size: 20px;
+background: linear-gradient(101deg, #5c02c5, #a60dd4, #df0a0a, #8c0000, #007581, #0061d2);
+background-size: 1200% 1200%;
 
+font:tahoma;
+		color: black;
+		font-size: 60px;
+		position: relative;
+		margin: auto;
+		float: left;
+left: 30px;
+text-shadow:2px 3px 35px #5cfa00;
 
+-webkit-animation: AnimationName 59s ease infinite;
+-moz-animation: AnimationName 59s ease infinite;
+animation: AnimationName 59s ease infinite;
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 88%}
+    50%{background-position:100% 13%}
+    100%{background-position:0% 88%}
 }
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 88%}
+    50%{background-position:100% 13%}
+    100%{background-position:0% 88%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 88%}
+    50%{background-position:100% 13%}
+    100%{background-position:0% 88%}
+}	
+
+
+
+
+a{ 		
+	}
